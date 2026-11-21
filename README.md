@@ -7,7 +7,6 @@
 
 **Project by:** Alexander Cox  
 **Project type:** Individual Windows enumeration and vulnerability-research lab  
-**Original report:** `Enumeration Lab A.cox.docx` · Advanced Cyber Security · Caribbean Maritime University · February 20, 2026  
 **Focus:** Service inventory • TCP listening ports • PID-to-process attribution • Software version review • CVE triage • Remediation
 
 ## Objective
