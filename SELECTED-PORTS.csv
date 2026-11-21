@@ -1,0 +1,6 @@
+Protocol,Local Address,Port,PID,Associated Process,Source
+TCP,0.0.0.0,135,2300,svchost.exe,Enumeration Lab A.cox.docx
+TCP,0.0.0.0,445,4,System,Enumeration Lab A.cox.docx
+TCP,0.0.0.0,902,5952,vmware-authd.exe,Enumeration Lab A.cox.docx
+TCP,0.0.0.0,5040,2548,svchost.exe,Enumeration Lab A.cox.docx
+TCP,0.0.0.0,12177,7108,ArmouryCrate.UserSessionHelper.exe,Enumeration Lab A.cox.docx
